@@ -1,4 +1,4 @@
-# Basketball Counter App
+# Basketball Counter App 🏀📱
 
 ## Overview
 
